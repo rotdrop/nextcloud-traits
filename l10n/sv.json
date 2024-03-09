@@ -1,8 +1,0 @@
-{ "translations": {
-    "Password" : "Lösenord",
-    "bytes" : "byte",
-    "User ID" : "Användar-ID",
-    "Email Address" : "E-postadress",
-    "Advanced Settings" : "Avancerade inställningar"
-},"pluralForm" :"nplurals=2; plural=(n != 1);"
-}
